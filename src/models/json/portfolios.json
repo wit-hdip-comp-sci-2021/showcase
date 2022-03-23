@@ -1,0 +1,16 @@
+{
+  "portfolios": [
+    {
+      "userid": "c66d0249-e82c-498f-a613-a2ab0510ba08",
+      "title": "Luxury",
+      "portfolioCategory": "Extensions",
+      "_id": "06922f11-8cf3-4d8f-810c-673eac999578"
+    },
+    {
+      "userid": "c66d0249-e82c-498f-a613-a2ab0510ba08",
+      "title": "Budget",
+      "portfolioCategory": "New Builds",
+      "_id": "09d9817f-47fa-4c75-b26d-a2559504bed2"
+    }
+  ]
+}
